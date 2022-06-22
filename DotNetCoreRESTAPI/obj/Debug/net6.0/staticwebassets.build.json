@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1oyb9LO1FosqPGdKwA13jlBTtmUrE/JqxZ91eCZqCIo=",
+  "Source": "DotNetCoreRESTAPI",
+  "BasePath": "_content/DotNetCoreRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
