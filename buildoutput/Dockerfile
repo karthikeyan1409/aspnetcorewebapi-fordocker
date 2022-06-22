@@ -1,5 +1,5 @@
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /app
-COPY ./buildoutput .
+COPY . .
 
 ENTRYPOINT ["dotnet", "DotNetCoreRESTAPI.dll"]
